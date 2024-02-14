@@ -5,7 +5,7 @@
 
 <br>
 
-Avail is a data availability focused blockchain. Here is a list of GitHub repo tracking the various development efforts in this regard. 
+Avail is a data availability-focused blockchain. Here is a list of GitHub repositories tracking the various development efforts in this regard. 
 
 |    Name (with link)    |                                       Description                                       |
 |:----------------------:|:---------------------------------------------------------------------------------------:|
